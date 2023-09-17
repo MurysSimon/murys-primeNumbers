@@ -1,0 +1,15 @@
+Zadani:
+V programovacim jazyce Java vytvorte program, ktery bude spousteny z prikazove radky. Jako jediny vstupni parametr 
+bude mit zadany datovy soubor. 
+Program na standardni vystup vypise vsechna prvocisla nalezena v datovem souboru (jeden radek vystupu=jedno nalezene 
+prvocislo) v poradi, v jakem se v souboru vyskytuji.
+Je mozne pouzivat jakekoli volne dostupne knihovny.
+Vystup bud jako spustitelny jar vcetne zdrojovych kodu, jako projekt do eclipse, nebo prosim nahrat na github.
+
+Popis datoveho souboru:
+Datovy soubor je ve formatu Excel 2007-2013 (xlsx).
+Data jsou v prvnim listu ve sloupci B (Data jsou zadana jako textovy field)
+Validni data jsou pouze kladna cela cisla, nevalidni data by mel program ignorovat.
+Maly VZOREK dat je prilohou zadani, jedna se opravdu o vzorek, finalni data mohou 
+byt jina!
+
